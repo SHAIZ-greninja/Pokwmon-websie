@@ -1,2 +1,2 @@
-# Pokwmon-websiTe
-a pokemon website made with HTML, CSS JAVASCRTIPT
+# Pokemon-website
+a pokemon website made with HTML, CSS & JAVASCRTIPT
